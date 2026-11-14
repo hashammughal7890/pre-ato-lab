@@ -19,7 +19,7 @@ Not a real target. No emails are sent. State is stored in the browser.
 ## Run
 
 ```bash
-https://github.com/hashammughal7890/pre-ato-lab.git
+git clone https://github.com/hashammughal7890/pre-ato-lab.git
 cd pre-ato-lab
 ```
 
